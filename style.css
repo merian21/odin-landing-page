@@ -117,7 +117,7 @@ button {
 }
 
 .draußen {
-    border-radius:16px;
+    border-radius: 16px;
     color: #e5e7eb;
     background-color: #3882f6;
     padding: 16px;
@@ -137,4 +137,13 @@ button {
 .time {
     font-size: 24px;
     font-weight: bold;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 16px;
 }
