@@ -111,3 +111,30 @@ button {
     align-self: flex-end;
     font-weight: bold;
 }
+
+.vier {
+    padding: 32px;
+}
+
+.draußen {
+    border-radius:16px;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ctabutton {
+    width: 200px;
+    height: 50px;
+    border: solid white;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.time {
+    font-size: 24px;
+    font-weight: bold;
+}
