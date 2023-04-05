@@ -91,3 +91,23 @@ button {
     color: gray;
     margin: 10px;
 }
+
+.drei {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    background-color: #e5e7eb;
+    color: gray;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: bold;
+}
