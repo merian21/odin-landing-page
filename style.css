@@ -13,6 +13,10 @@ body {
     padding: 16px;
 }
 
+.logo {
+    font-size: 24px;
+}
+
 a {
     text-decoration: none;
     color: white;
@@ -23,4 +27,30 @@ ul {
     display: flex;
     gap: 16px;
     margin-right: 16px;
+}
+
+.eins {
+    background-color: #1F2937;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    color: #e5e7eb;
+}
+
+.img {
+    width: 800px;
+    height: 220px;
+    background-color: lightgray;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #3882f6;
+    padding: 8px;
+    width: 120px;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    margin: 0;
+    border: 0;
 }
